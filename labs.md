@@ -13,7 +13,7 @@
 1. Chodun, Michał
 1. Cygert, Sławomir
 1. Dymura, Łukasz 22.10
-1. Dziekan, Maciej
+1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty)
 1. Ertmański, Jakub
 1. Gackowski, Maciej https://github.com/mgackowski96
 1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
